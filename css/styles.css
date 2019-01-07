@@ -1,0 +1,45 @@
+/* HTML elements */
+body {
+  background-color: #f9fafc;
+}
+
+h1 {
+  color: #4ECCA3;
+  font-family: 'Playfair Display', serif;
+  font-size: 8rem;
+  margin: 30px;
+  text-shadow: 5px 0 #232931;
+}
+
+p {
+  color: #4ECCA3;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 2rem;
+}
+
+h4 {
+  color: #4ECCA3;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  color: #EEEEEE;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-top: 5%;
+  text-align: center;
+}
+
+/* Classes */
+.container {
+  margin: auto;
+  text-align: center;
+  width: 70%;
+}
+
+.dice {
+  display: inline-block;
+  text-align: center;
+}
